@@ -10,6 +10,10 @@ FrostedAura - Unleash the Elegance of FrostedCode and AuraGlow in Your Coding En
 - Polished Product Icons
 - Toggleable Features for Personalized Coding
 
+## Screenshots
+
+![FrostedAura Example](https://github.com/ImKKingshuk/FrostedAura-Theme/raw/main/FrostedAura_Example.png)
+
 ## Features
 
 - 🌌 **Glassmorphism Effect**: Immerse yourself in the world of glassmorphism, with translucent and blurred UI elements.
@@ -26,10 +30,6 @@ FrostedAura - Unleash the Elegance of FrostedCode and AuraGlow in Your Coding En
 - To disable the effects:
 - Use the **Disable FrostedCode** command to turn off the glassmorphism effect.
 - Use the **Disable AuraGlow** command to deactivate the syntax glow effect.
-
-## Screenshots
-
-![FrostedAura Example](https://github.com/ImKKingshuk/FrostedAura-Theme/raw/main/FrostedAura_Example.png)
 
 ## Requirements
 
