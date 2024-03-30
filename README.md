@@ -29,6 +29,8 @@ FrostedAura - Unleash the Elegance of FrostedCode and AuraGlow in Your Coding En
 
 ## Screenshots
 
+![Alt Text]()
+
 ## Requirements
 
 - Visual Studio Code
