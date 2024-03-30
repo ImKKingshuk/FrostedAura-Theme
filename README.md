@@ -29,7 +29,7 @@ FrostedAura - Unleash the Elegance of FrostedCode and AuraGlow in Your Coding En
 
 ## Screenshots
 
-![Alt Text]()
+![FrostedAura Example](https://github.com/ImKKingshuk/FrostedAura-Theme/raw/main/FrostedAura_Example.png)
 
 ## Requirements
 
